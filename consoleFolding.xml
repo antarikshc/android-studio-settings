@@ -2,7 +2,10 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="D/FeatureFactory" />
+        <option value="D/HwSplineOverScrollerExImpl" />
         <option value="D/OkHttp" />
+        <option value="I/FLTAG" />
       </list>
     </option>
   </component>
