@@ -1,0 +1,18 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
+</keymap>
