@@ -2,4 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Cascadia Code" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
 </application>
