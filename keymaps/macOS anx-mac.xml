@@ -1,6 +1,18 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="macOS anx-mac" parent="Mac OS X 10.5+">
   <action id="CodeInspection.OnEditor">
     <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt i" />
@@ -16,5 +28,8 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="tasks.goto">
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
 </keymap>
