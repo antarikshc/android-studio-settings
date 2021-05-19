@@ -1,0 +1,9 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="core-ui/src/main/res/layout/viewholder_user.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
