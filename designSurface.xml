@@ -2,7 +2,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="core-ui/src/main/res/layout/item_search_user.xml" value="0.2558876811594203" />
+        <entry key="core-ui/src/main/res/layout/viewholder_blocklist.xml" value="0.2558876811594203" />
         <entry key="core-ui/src/main/res/layout/viewholder_user.xml" value="0.1" />
+        <entry key="libraries/widgets/src/main/res/drawable/bg_rect_rounded_4dp_light.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/comment_report_circle_white.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/follow_bg.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/ic_badge_tick_blue.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/profile_block_bg.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_8_grey_outline.xml" value="0.41770833333333335" />
       </map>
     </option>
   </component>
