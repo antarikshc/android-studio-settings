@@ -21,9 +21,11 @@
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_follow_suggestion_8.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_white_grey_border_follow_suggestion_8.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/layout/follow_suggestions_item.xml" value="0.24592391304347827" />
+        <entry key="moj-app/src/main/res/layout/fragment_search_top_results.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_all_networkstate.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_all_networkstate_fullscreen.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_audio_remove.xml" value="0.40260416666666665" />
+        <entry key="moj-app/src/main/res/layout/viewholder_suggested_text.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/viewholder_tags_in_explore_header.xml" value="0.3958333333333333" />
       </map>
     </option>
