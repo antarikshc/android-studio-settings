@@ -16,6 +16,7 @@
         <entry key="feature/search/src/main/res/drawable/shape_rectangle_rounded_corner_blue_button.xml" value="0.41770833333333335" />
         <entry key="feature/search/src/main/res/layout/dialog_speech_to_text.xml" value="0.3958333333333333" />
         <entry key="feature/search/src/main/res/layout/viewholder_search_suggestions.xml" value="0.3958333333333333" />
+        <entry key="moj-app/src/main/res/drawable/bg_black_gradient_bottom.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/bg_circle_blue.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/bg_circle_dark_blue.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/bg_circle_maroon_border.xml" value="0.41770833333333335" />
@@ -51,12 +52,14 @@
         <entry key="moj-app/src/main/res/layout/item_create_tag.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/item_create_tag_list.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/item_tag_search_list.xml" value="0.3958333333333333" />
+        <entry key="moj-app/src/main/res/layout/layout_post_bottom_right_actions_light.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_all_networkstate.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_all_networkstate_fullscreen.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_audio_remove.xml" value="0.40260416666666665" />
         <entry key="moj-app/src/main/res/layout/viewholder_search_header.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/viewholder_suggested_text.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/viewholder_tags_in_explore_header.xml" value="0.3958333333333333" />
+        <entry key="moj-app/src/main/res/layout/viewholder_video_exoplayer_v2.xml" value="0.24592391304347827" />
       </map>
     </option>
   </component>
