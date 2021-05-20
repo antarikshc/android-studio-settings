@@ -15,13 +15,19 @@
         <entry key="moj-app/src/main/res/drawable/ic_badge_admin.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_badge_owner_24dp.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_badge_top_creator.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/ic_hash.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/ic_hash_filled.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_police_badge.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/ic_user_handle.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_8_white.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_follow_suggestion.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_follow_suggestion_8.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_white_grey_border_follow_suggestion_8.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/layout/follow_suggestions_item.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/fragment_search_top_results.xml" value="0.3958333333333333" />
+        <entry key="moj-app/src/main/res/layout/item_create_tag.xml" value="0.3958333333333333" />
+        <entry key="moj-app/src/main/res/layout/item_create_tag_list.xml" value="0.3958333333333333" />
+        <entry key="moj-app/src/main/res/layout/item_tag_search_list.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_all_networkstate.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_all_networkstate_fullscreen.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/viewholder_audio_remove.xml" value="0.40260416666666665" />
