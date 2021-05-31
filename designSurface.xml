@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="camera/SnapCamera/src/main/res/layout/activity_snap_camera.xml" value="0.20625" />
         <entry key="core-ui/src/main/res/drawable/bg_rect_8dp_round_foreground_stroke.xml" value="0.23854166666666668" />
         <entry key="core-ui/src/main/res/drawable/bg_rectangle_pill_8dp_rounded_white.xml" value="0.41770833333333335" />
         <entry key="core-ui/src/main/res/drawable/ic_badge_admin.xml" value="0.1" />
