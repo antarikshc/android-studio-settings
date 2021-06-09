@@ -6,6 +6,7 @@
         <entry key="camera/SnapCamera/src/main/res/layout/activity_snap_camera.xml" value="0.20625" />
         <entry key="core-ui/src/main/res/drawable/bg_rect_8dp_round_foreground_stroke.xml" value="0.23854166666666668" />
         <entry key="core-ui/src/main/res/drawable/bg_rectangle_pill_8dp_rounded_white.xml" value="0.41770833333333335" />
+        <entry key="core-ui/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.41770833333333335" />
         <entry key="core-ui/src/main/res/drawable/ic_badge_admin.xml" value="0.1" />
         <entry key="core-ui/src/main/res/drawable/ic_badge_blue_tick.xml" value="0.1" />
         <entry key="core-ui/src/main/res/drawable/ic_badge_owner_24dp.xml" value="0.1" />
@@ -36,6 +37,7 @@
         <entry key="moj-app/src/main/res/drawable/bg_gradient_follow_suggestions.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/bg_grey_rectangle.xml" value="0.22916666666666666" />
         <entry key="moj-app/src/main/res/drawable/follow_disabled_bg.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/ic_arrow_back_gray.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_badge_admin.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_badge_owner_24dp.xml" value="0.41770833333333335" />
