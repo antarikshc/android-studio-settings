@@ -2,9 +2,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="camera/SnapCamera/src/main/res/layout/activity_snap_camera.xml" value="0.20625" />
         <entry key="core-ui/src/main/res/drawable/bg_rect_8dp_round_foreground_stroke.xml" value="0.23854166666666668" />
+        <entry key="core-ui/src/main/res/drawable/bg_rect_pill_8dp_rounded_white.xml" value="0.41770833333333335" />
+        <entry key="core-ui/src/main/res/drawable/bg_rect_pill_8dp_rounded_white_grey_stroke.xml" value="0.41770833333333335" />
         <entry key="core-ui/src/main/res/drawable/bg_rectangle_pill_8dp_rounded_white.xml" value="0.41770833333333335" />
         <entry key="core-ui/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.41770833333333335" />
         <entry key="core-ui/src/main/res/drawable/ic_badge_admin.xml" value="0.1" />
@@ -17,6 +20,7 @@
         <entry key="core-ui/src/main/res/drawable/ic_mic_grey_24dp.xml" value="0.41770833333333335" />
         <entry key="core-ui/src/main/res/drawable/ic_mic_white_24dp.xml" value="0.41770833333333335" />
         <entry key="core-ui/src/main/res/layout/item_follow_suggestions.xml" value="0.3958333333333333" />
+        <entry key="core-ui/src/main/res/layout/viewholder_user.xml" value="0.24320652173913043" />
         <entry key="feature/search/src/main/res/drawable/ic_retry.xml" value="0.41770833333333335" />
         <entry key="feature/search/src/main/res/drawable/shape_rectangle_rounded_corner_blue_button.xml" value="0.41770833333333335" />
         <entry key="feature/search/src/main/res/layout/activity_search.xml" value="0.24094202898550723" />
@@ -36,6 +40,8 @@
         <entry key="moj-app/src/main/res/drawable/bg_circle_maroon_border.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/bg_gradient_follow_suggestions.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/bg_grey_rectangle.xml" value="0.22916666666666666" />
+        <entry key="moj-app/src/main/res/drawable/bg_rounded_rect_transparent_with_border.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/bg_rounded_rect_white_stroke.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/follow_disabled_bg.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_arrow_back_gray.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.41770833333333335" />
@@ -62,14 +68,18 @@
         <entry key="moj-app/src/main/res/drawable/ic_user_handle.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/phone_login_button_background.xml" value="0.22916666666666666" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_8_white.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_border.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_corner_blue_button.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_follow_suggestion.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_follow_suggestion_8.xml" value="0.41770833333333335" />
+        <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_white_grey_border_follow_suggestion.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_white_grey_border_follow_suggestion_8.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/layout/follow_suggestions_item.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/fragment_age_update.xml" value="0.25181159420289856" />
+        <entry key="moj-app/src/main/res/layout/fragment_comment_new.xml" value="1.0" />
         <entry key="moj-app/src/main/res/layout/fragment_search_top_results.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/fragment_send_comment.xml" value="0.2140625" />
+        <entry key="moj-app/src/main/res/layout/fragment_video_bottomsheet_moj.xml" value="0.24320652173913043" />
         <entry key="moj-app/src/main/res/layout/item_comment_load_previous.xml" value="0.2140625" />
         <entry key="moj-app/src/main/res/layout/item_create_tag.xml" value="0.3958333333333333" />
         <entry key="moj-app/src/main/res/layout/item_create_tag_list.xml" value="0.3958333333333333" />
@@ -85,6 +95,7 @@
         <entry key="moj-app/src/main/res/layout/viewholder_search_header.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/viewholder_suggested_text.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/viewholder_tags_in_explore_header.xml" value="0.3958333333333333" />
+        <entry key="moj-app/src/main/res/layout/viewholder_user.xml" value="0.22916666666666666" />
         <entry key="moj-app/src/main/res/layout/viewholder_video_exoplayer_v2.xml" value="0.24592391304347827" />
         <entry key="referral/src/main/res/drawable/ic_chevron.xml" value="0.4036458333333333" />
       </map>
