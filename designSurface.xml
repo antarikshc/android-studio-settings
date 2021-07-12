@@ -25,6 +25,7 @@
         <entry key="core-ui/src/main/res/layout/viewholder_user.xml" value="0.24320652173913043" />
         <entry key="feature/privacy/src/main/res/layout/activity_privacy.xml" value="0.24728260869565216" />
         <entry key="feature/privacy/src/main/res/layout/fragment_privacy.xml" value="0.24728260869565216" />
+        <entry key="feature/privacy/src/main/res/layout/layout_block_user_item.xml" value="0.2441123188405797" />
         <entry key="feature/search/src/main/res/drawable/ic_retry.xml" value="0.41770833333333335" />
         <entry key="feature/search/src/main/res/drawable/shape_rectangle_rounded_corner_blue_button.xml" value="0.41770833333333335" />
         <entry key="feature/search/src/main/res/layout/activity_search.xml" value="0.24094202898550723" />
