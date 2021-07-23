@@ -87,6 +87,7 @@
         <entry key="moj-app/src/main/res/drawable/shape_rectangle_rounded_white_grey_border_follow_suggestion_8.xml" value="0.41770833333333335" />
         <entry key="moj-app/src/main/res/layout/follow_suggestions_item.xml" value="0.24592391304347827" />
         <entry key="moj-app/src/main/res/layout/fragment_age_update.xml" value="0.25181159420289856" />
+        <entry key="moj-app/src/main/res/layout/fragment_age_verification.xml" value="0.1" />
         <entry key="moj-app/src/main/res/layout/fragment_comment_new.xml" value="1.0" />
         <entry key="moj-app/src/main/res/layout/fragment_login_prompt.xml" value="0.40260416666666665" />
         <entry key="moj-app/src/main/res/layout/fragment_post_base.xml" value="0.2504528985507246" />
