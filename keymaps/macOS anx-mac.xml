@@ -11,6 +11,9 @@
   <action id="CodeInspection.OnEditor">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="ExternalSystem_7db89107Android7db89107packageFullReleaseUniversalApk">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
