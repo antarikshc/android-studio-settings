@@ -8,7 +8,7 @@
             <value value="adb-9e3e13d3-GVOgRc._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-30T09:44:53.420156Z" />
+        <lastOnlineTime value="2022-04-04T13:20:39.652131Z" />
         <name value="realme RMX2081" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -31,7 +31,7 @@
             <value value="adb-4f8cac8f-4H5wEZ._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-04T11:21:09.133405Z" />
+        <lastOnlineTime value="2022-04-04T13:18:08.453213Z" />
         <name value="Xiaomi M2012K11AI" />
         <target value="Android 11.0" />
         <api value="30" />
