@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
+            <value value="adb-4f8cac8f-4H5wEZ._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi M2012K11AI" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
             <value value="adb-9e3e13d3-GVOgRc._adb-tls-connect._tcp." />
           </Key>
         </key>
@@ -26,8 +37,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-4f8cac8f-4H5wEZ._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="4f8cac8f" />
           </Key>
         </key>
         <name value="Xiaomi M2012K11AI" />
