@@ -5,23 +5,22 @@
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-4f8cac8f-4H5wEZ._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
             <value value="adb-9e3e13d3-GVOgRc._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="realme RMX2081" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-4f8cac8f-4H5wEZ._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +31,7 @@
         </key>
         <name value="realme RMX2081" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +42,7 @@
         </key>
         <name value="Xiaomi M2012K11AI" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
