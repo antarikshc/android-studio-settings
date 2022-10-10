@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine anxdebug" />
+        <option value="package:mine level:WARN" />
+        <option value="package:mine anxdebug " />
         <option value="package:mine level:WARN " />
         <option value="package:mine level:WARN  " />
         <option value="package:mine Floating " />
