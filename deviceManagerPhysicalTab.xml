@@ -30,8 +30,8 @@
           </Key>
         </key>
         <name value="realme RMX2081" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
