@@ -2,10 +2,12 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="14:16:28.754  W  Access denied finding property &quot;vendor.oplus.media.vpp.stutter&quot;" />
         <option value="D/FeatureFactory" />
         <option value="D/HwSplineOverScrollerExImpl" />
         <option value="D/OkHttp" />
         <option value="I/FLTAG" />
+        <option value="Access denied finding property &quot;vendor.oplus.media.vpp.stutter&quot;" />
       </list>
     </option>
   </component>
