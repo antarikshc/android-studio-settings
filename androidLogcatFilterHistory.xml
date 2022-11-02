@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine anxdebug " />
+    <option name="mostRecentlyUsed" value="package:mine anxdebug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine anxdebug" />
+        <option value="package:mine  " />
         <option value="package:mine anxdebug " />
         <option value="package:mine level:WARN " />
         <option value="package:mine" />
@@ -12,10 +14,8 @@
         <option value="package:mine anxdebug  " />
         <option value="package:mine level:WARN  " />
         <option value="package:mine level:ERROR " />
-        <option value="package:mine  " />
         <option value="package:mine ACTIVATE -  " />
         <option value="package:mine ACTIVA " />
-        <option value="package:mine anxdebug" />
         <option value="package:mine  anxdebug" />
         <option value="package:mine  level:WARN " />
         <option value="package:mine level:WARN" />
