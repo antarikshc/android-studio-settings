@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine anxdebug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine anxdebug" />
         <option value="package:mine " />
         <option value="package:mine level:WARN " />
         <option value="package:mine" />
-        <option value="package:mine anxdebug" />
         <option value="package:mine SplashPrese  " />
         <option value="package:mine anxdebug  " />
         <option value="package:mine ExoPlayerFactory  " />
