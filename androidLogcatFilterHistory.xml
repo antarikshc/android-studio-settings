@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RequestInterceptConfigApi" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine RequestInterceptConfigApi" />
         <option value="package:mine RequestInter" />
-        <option value="package:mine " />
         <option value="package:mine LoggingInterceptConfigApi_postRes" />
         <option value="package:mine LoggingInterceptConfigApi_preRes" />
         <option value="package:mine CHEETAH-124" />
