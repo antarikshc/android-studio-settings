@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine anxdebug" />
+    <option name="mostRecentlyUsed" value="package:mine VideoPlayerInit" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine VideoPlayerInit" />
         <option value="package:mine anxdebug" />
         <option value="package:mine " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine ExoPlayerFactory  " />
         <option value="package:mine Splash  " />
         <option value="package:mine anxdebug PLAY" />
-        <option value="package:mine anxdebug UNIT" />
       </list>
     </option>
   </component>
