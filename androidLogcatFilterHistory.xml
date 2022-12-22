@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="AppsFlyer install" />
     <option name="nonFavorites">
       <list>
+        <option value="AppsFlyer install" />
+        <option value="install" />
+        <option value="flyer" />
+        <option value="appsflyer" />
+        <option value="in.mohalla.video" />
         <option value="package:mine " />
         <option value="package:mine VideoPlayerInit" />
         <option value="package:mine anxdebug" />
@@ -18,11 +23,6 @@
         <option value="package:mine LoggingInterceptConfigApi_preRes" />
         <option value="package:mine CHEETAH-124" />
         <option value="package:mine trace" />
-        <option value="package:mine SplashPrese  " />
-        <option value="package:mine anxdebug  " />
-        <option value="package:mine ExoPlayerFactory  " />
-        <option value="package:mine Splash  " />
-        <option value="package:mine anxdebug PLAY" />
       </list>
     </option>
   </component>
