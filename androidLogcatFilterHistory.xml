@@ -1,16 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppsFlyer install" />
+    <option name="mostRecentlyUsed" value="package:mine anxdebug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine anxdebug" />
+        <option value="package:mine " />
         <option value="AppsFlyer install" />
         <option value="install" />
         <option value="flyer" />
         <option value="appsflyer" />
         <option value="in.mohalla.video" />
-        <option value="package:mine " />
         <option value="package:mine VideoPlayerInit" />
-        <option value="package:mine anxdebug" />
         <option value="package:mine" />
         <option value="package:mine  Default FirebaseApp" />
         <option value="package:mine  " />
