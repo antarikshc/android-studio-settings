@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine t" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
+        <option value="package:mine " />
         <option value="package:mine t" />
         <option value="package:mine anxdebug" />
-        <option value="package:mine " />
         <option value="AppsFlyer install" />
         <option value="install" />
         <option value="flyer" />
@@ -22,7 +23,6 @@
         <option value="package:mine RequestInter" />
         <option value="package:mine LoggingInterceptConfigApi_postRes" />
         <option value="package:mine LoggingInterceptConfigApi_preRes" />
-        <option value="package:mine CHEETAH-124" />
       </list>
     </option>
   </component>
