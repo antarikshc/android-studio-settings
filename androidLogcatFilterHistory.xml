@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine VideoPlayerInit" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine VideoPlayerInit" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine t" />
@@ -12,7 +13,6 @@
         <option value="flyer" />
         <option value="appsflyer" />
         <option value="in.mohalla.video" />
-        <option value="package:mine VideoPlayerInit" />
         <option value="package:mine" />
         <option value="package:mine  Default FirebaseApp" />
         <option value="package:mine  " />
